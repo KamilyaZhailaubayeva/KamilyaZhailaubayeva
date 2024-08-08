@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://gifdb.com/gif/i-eat-data-for-breakfast-so65o8b3qes6edff.html?embed=true" width="100"/>
+  <img src="https://cms.icpsr.umich.edu/sites/default/files/news/giphy_31.gif" width="100"/>
 </div>
 
 
