@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/explore/i-eat-data-for-breakfast" width="100"/>
+  <img src="https://media.gifdb.com/i-eat-data-for-breakfast-so65o8b3qes6edff.gif" width="100"/>
 </div>
 
 
