@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://giphy.com/explore/i-eat-data-for-breakfast" width="100"/>
+</div>
+
+
 ## Hi there 👋
 
 <!--
