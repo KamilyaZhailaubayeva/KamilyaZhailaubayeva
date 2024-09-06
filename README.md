@@ -17,7 +17,7 @@
 </div>
 
 ### :woman_technologist: About Me : 
-I am a Machine Learning Engineer | Data Engineer | Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazakhstan <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Animated-Flag-Kazakhstan.gif" width="30">.
+I am a Machine Learning Engineer | Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :fireworks: Passionate about both classical machine learning and deep learning and its composition with computer vision and natural language processing.
 
