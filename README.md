@@ -16,17 +16,17 @@
   </h1>
 </div>
 
-### :woman_technologist: About Me : 
-I am a Machine Learning Engineer | Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+### :woman_technologist: About Me: 
+I am a Machine Learning Engineer | Data Scientist with 1.5 years of experience. I started my road programming microprocessors and later transitioned to training machine learning models. I am passionate about both classical machine learning and deep learning, particularly its application in computer vision and natural language processing. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- :fireworks: Passionate about both classical machine learning and deep learning and its composition with computer vision and natural language processing.
-
-- :seedling: Learning RAG to connect LLM with external databases.
+- :seedling: Learning Retrieval-Augmented Generation (RAG) to connect large language models (LLMs) with external databases
+  
+- :mag_right: Looking for a collaborative and supportive team of skilled professionals where continuous learning and professional growth are encouraged and valued
 
 - :mailbox: How to reach me: kamilya.zhailaubayeva@gmail.com
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -44,12 +44,47 @@ I am a Machine Learning Engineer | Data Scientist <img src="https://media.giphy.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+### Overview of my projects :briefcase::
+
+**Video-to-text generator:**
+* Located at a repository [Video2Text_Generator_MS_Thesis](https://github.com/KamilyaZhailaubayeva/Video2Text_Generator_MS_Thesis.git)
+* Trained a model that converts video to text
+* Applied a pre-trained VGG16 CNN as an encoder and LSTM as a decoder using Tensorflow library
+* Compared models with different number of frames per video and vocabulary size on large datasets MSRVTT and MSVD
+* Best model scores 12.8, 32.2, 32.9, and 44.0 on METEOR, BLEU1, ROUGE, and CIDEr machine translation evaluation metrics respectively
+* ***Skills***: Python, Jupyter Notebook, Tensorflow, Numpy, CV2, Matplotlib, Pycocoevalcap
+
+
+**Predicting Movie Success in the CIS:**
+* Located at a repository [Predicting_Movie_Success_in_the_CIS](https://github.com/KamilyaZhailaubayeva/Predicting_Movie_Success_in_the_CIS.git)
+* Manually collected «Kinopoisk» dataset which contains a title, rating, genre, etc. of 1263 movies
+* Compared such classifiers as KNN, Logistic Regression, AdaBoost, etc. via Grid Search Cross-Validation using Scikit-Learn library
+* Model accuracy on training data and test data is 94.8% and 77.9% respectively
+* ***Skills***: Python, Jupyter Notebook, Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, GridSearchCV
+
+
+**Image Classification and Deployment:**
+* Located at a repository [AI_HW8_Kamilya](https://github.com/KamilyaZhailaubayeva/AI_HW8_Kamilya.git)
+* Trained a model that classifies images using CNN
+* Wrapped the model with Tensorflow-Lite into a Docker container
+* Deployed the model via AWS Lambda
+* ***Skills***: Python, Jupyter Notebook, Tensorflow, Tensorflow-Lite, ImageDataGenerator, Docker, AWS Lambda
+
+
+**Stroke Prediction and Deployment:**
+* Located at a repository [Stroke_Streamlit](https://github.com/KamilyaZhailaubayeva/Stroke_Streamlit.git)
+* Developed a binary classification model to predict stroke using Kaggle data
+* The accuracy of Logistic Regression model is 87.4%
+* Created a local website using Streamlit to demonstrate this model
+* ***Skills***: Python, Jupyter Notebook, Scikit-Learn, Pandas, Numpy, Streamlit, Matplotlib, Seaborn
+
+---
 
 ### :fire: My Stats :
 <div id="stats" align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=KamilyaZhailaubayeva&theme=transparent&hide_border=true&border_radius=4.7&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=FF2222" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"> <img src="https://github-readme-streak-stats.herokuapp.com?user=KamilyaZhailaubayeva&theme=transparent&hide_border=true&border_radius=4.7&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=FF2222" alt="GitHub Streak" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamilyaZhailaubayeva&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamilyaZhailaubayeva&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
   </a>
 </div>
 
