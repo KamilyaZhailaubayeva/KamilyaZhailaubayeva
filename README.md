@@ -17,9 +17,9 @@
 </div>
 
 ### :woman_technologist: About Me: 
-I am a Machine Learning Engineer | Data Scientist with 1.5 years of experience. I started my road programming microprocessors and later transitioned to training machine learning models. I am passionate about both classical machine learning and deep learning, particularly its application in computer vision and natural language processing. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am an ML | CV engineer with 1.5 years of experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I started my journey with microprocessor programming and then delved into training ML models, particularly in Computer Vision field. Fascinated by the idea of ​​creating technologies capable of recognizing and analyzing visual information. Passionate about various aspects of this field, from classical image processing algorithms to modern deep learning approaches such as CNN.
 
-- :seedling: Learning Retrieval-Augmented Generation (RAG) to connect large language models (LLMs) with external databases
+- :seedling: Learning object detection and tracking using the YOLO method for detection and Optical Flow for tracking
   
 - :mag_right: Looking for a collaborative and supportive team of skilled professionals where continuous learning and professional growth are encouraged and valued
 
